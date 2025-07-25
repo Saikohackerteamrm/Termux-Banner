@@ -6,7 +6,7 @@ red='[1;31m'
 yellow='[1;33m'
 echo -e $lightgreen "[1m                 We Hack To Defend The Digital World... "
 echo " "
-echo -e $yellow "[1m                         -Terminal Banner "
+echo -e $yellow "[1m                         -RM Rony Ali "
 echo " "
 echo " "
 echo " "
