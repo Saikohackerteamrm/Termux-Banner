@@ -15,8 +15,6 @@ ____________________
     
     ###First Install Requirement
     ### Second Run bash S-H-T.sh 
-     Website : [Contact Developer](https://www.facebook.com/profile.php?id=61551487702871)
-    
     # Single installation command
 _______________________________________
 
